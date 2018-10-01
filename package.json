@@ -1,0 +1,14 @@
+{
+  "name": "p-librooscraper",
+  "version": "1.0.0",
+  "description": "scraper that will run automaticaly on server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hamdache202",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
